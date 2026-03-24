@@ -1,5 +1,5 @@
 cask "hive" do
-  version "0.3.0-beta"
+  version "0.4.0-beta"
   sha256 :no_check
 
   url "https://github.com/nocodevit/hive/releases/download/v#{version}/Hive-#{version.sub(/-beta/, '')}-arm64.dmg"
